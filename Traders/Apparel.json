@@ -1,0 +1,41 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Apparel",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Backpack",
+    "Currencies": [
+        "Money_AUDollar5",
+        "Money_AUDollar10",
+        "Money_AUDollar20",
+        "Money_AUDollar50",
+        "Money_AUDollar100"
+],
+    "Categories": [
+		"Helmets",
+        "Caps + Hats",
+        "Armbands",
+        "Backpacks",
+        "Eyewear",
+        "Gloves",
+        "Bandanas",
+        "Masks",
+        "Vests",
+        "Holsters + Pouches",
+        "Ghillies",
+        "Belts",
+        "Blouses + Suits",
+        "Coats + Jackets",
+        "Shirts + TShirts",
+        "Skirts + Dresses",
+		"Sweaters + Hoodies",
+        "Pants + Shorts",
+        "Boots + Shoes",
+		"MSP_Clothes",
+        "NBC Gear:2"       
+    ],
+    "Items": {
+        "nvgoggles": 2,
+		"MSP_Clothes": 3              
+	}
+}

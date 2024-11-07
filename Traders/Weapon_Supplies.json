@@ -1,0 +1,38 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Weapon_Supplies",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Shotgun Bullets",
+    "Currencies": [
+        "Money_AUDollar5",
+        "Money_AUDollar10",
+        "Money_AUDollar20",
+        "Money_AUDollar50",
+        "Money_AUDollar100"
+	],
+    "Categories": [
+		"Melee_Weapons",
+		"Ammo",
+		"Ammo_Boxes",
+		"Magazines",
+		"Muzzles",
+		"Bayonets",
+		"Optics",
+		"Buttstocks",
+		"Handguards",
+		"Magazines",
+		"Muzzles",
+		"Bayonets",
+		"Optics",
+		"Buttstocks",
+		"Handguards"
+    ],
+  "Items": {
+		"tlrlight": 3,
+		"universallight": 3,
+		"grenade_chemgas": 3,
+		"ammo_40mm_explosive": 3,
+		"ammo_40mm_chemgas": 3
+	}
+}

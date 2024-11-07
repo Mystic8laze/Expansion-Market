@@ -1,0 +1,33 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Heliz",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Helicopter",
+    "Currencies": [
+        "Money_AUDollar5",
+        "Money_AUDollar10",
+        "Money_AUDollar20",
+        "Money_AUDollar50",
+        "Money_AUDollar100"
+],
+    "Categories": [
+		    "RF_Heliz",
+		    "RF_Heliz_Parts",
+		    "Vehicle_Doors:3",		
+		    "Liquids"
+    ],
+    "Items": {
+        "Batteries": 1,
+		"RFFSHeli_S76": 3,
+		"RFFSHeli_UH1H_Combat": 3,
+		"RFFSHeli_LittleBird": 3,
+		"RFFSHeli_LittleBird_Camo": 3,
+		"RFFSHeli_LittleBird_Desert": 3,
+        "FS_LittleBird_JUNGLE": 3,
+        "FS_UH1H_MASH": 3,
+        "FS_R22_CLOWN": 3,
+        "FS_R22_SASSY": 3,
+        "canistergasoline": 1		
+	}
+}

@@ -1,0 +1,24 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Weapons",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "Money_AUDollar5",
+        "Money_AUDollar10",
+        "Money_AUDollar20",
+        "Money_AUDollar50",
+        "Money_AUDollar100"
+],
+    "Categories": [
+        "Assault_Rifles",
+        "Rifles",
+        "Pistols",
+        "Sniper_Rifles:2",
+        "Shotguns + Submachine_Guns",
+        "Melee_Weapons",
+        "Crossbows:2"	
+    ],
+    "Items": {}
+}

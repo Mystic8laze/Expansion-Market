@@ -1,0 +1,20 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Event",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Group",
+    "Currencies": [
+      "Money_AUDollar5",
+      "Money_AUDollar10",
+      "Money_AUDollar20",
+      "Money_AUDollar50",
+      "Money_AUDollar100"
+],
+    "Categories": [
+		"Explosives + Raid Tools:3"
+    ],
+    "Items": {
+		"BBP_Admin_Hammer": 3		
+	}
+}

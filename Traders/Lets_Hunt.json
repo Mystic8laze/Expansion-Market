@@ -1,0 +1,27 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Lets_Hunt",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Animal Skull",
+    "Currencies": [
+        "Money_AUDollar5",
+        "Money_AUDollar10",
+        "Money_AUDollar20",
+        "Money_AUDollar50",
+        "Money_AUDollar100"
+	],
+    "Categories": [
+		"Fishing",
+        "Pelts:2",
+        "Heads:2",
+        "Rugs",
+        "Fish:2",
+        "Fish Fillets:2",
+        "Meat:2",
+        "Mounts:2",
+        "Misc Parts + Bits:2",
+        "Knifes"
+    ],
+    "Items": {}
+}

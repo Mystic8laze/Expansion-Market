@@ -1,0 +1,50 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Drug_Dealer",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Herbal Medicine",
+    "Currencies": [
+        "Money_AUDollar5",
+        "Money_AUDollar10",
+        "Money_AUDollar20",
+        "Money_AUDollar50",
+        "Money_AUDollar100"
+],
+    "Categories": [
+        "Drugs"
+    ],
+    "Items": {
+		"DP_CocaSeedsPack": 2,
+		"DP_CocaBag": 3,
+		"CP_CannabisSeedsPackSkunk": 2,
+        "CP_CannabisSeedsPackBlue": 2,
+		"CP_CannabisSeedsPackKush": 2,
+		"CP_CannabisSeedsPackStardawg": 2,
+		"CP_CannabisSeedsPackFuture": 2,
+		"CP_CannabisSeedsPackS1": 2,
+		"CP_CannabisSeedsPackNomad": 2,
+		"CP_CannabisSeedsPackBlackFrost": 2,
+		"DP_CocaBrick": 2,
+		"CP_CannabisBrickSkunk": 2,		
+		"CP_CannabisBrickBlue": 2,
+		"CP_CannabisBrickKush": 2,
+		"CP_CannabisBrickStardawg": 2,
+		"CP_CannabisBrickFuture": 2,
+		"CP_CannabisBrickS1": 2,
+		"CP_CannabisBrickNomad": 2,
+		"CP_CannabisBrickBlackFrost": 2,		
+		"Blackouts_CannabisSeedsPack": 2,
+		"Blackouts_CannabisSeedsPackAlbino": 2,
+		"Blackouts_CannabisSeedsPackExodus": 2,
+		"Blackouts_CannabisSeedsPackGanja_Mountain": 2,
+		"Blackouts_CannabisSeedsPackDaxtal": 2,
+		"Blackouts_CannabisBrickMidnight_Express": 2,
+		"Blackouts_CannabisBrickAlbino": 2,
+		"Blackouts_CannabisBrickExodus": 2,
+		"Blackouts_CannabisBrickGanja_Mountain": 2,
+		"Blackouts_CannabisBrickDaxtal": 2
+		
+		
+	}
+}

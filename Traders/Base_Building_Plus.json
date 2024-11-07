@@ -1,0 +1,39 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Base Building Plus",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "TraderIcon": "Hammer",
+  "Currencies": [
+    "Money_AUDollar5",
+    "Money_AUDollar10",
+    "Money_AUDollar20",
+    "Money_AUDollar50",
+    "Money_AUDollar100"
+  ],
+  "Categories": [
+    "BBP",
+    "BBP Items",
+    "BBP Carpet+Plaster",
+    "BBP Murals",
+    "BBP More Murals"
+  ],
+  "Items": {
+    "BBP_Cement": 3,
+    "BBP_Concrete_Brick_Pile": 0,
+    "wallpaper_mural_BIG_LEZ_SHOW_1": 3,
+    "wallpaper_mural_BIG_LEZ_SHOW_2": 3,
+    "wallpaper_mural_BIG_LEZ_SHOW_3": 3,
+    "wallpaper_mural_DRAGON_1": 3,
+    "wallpaper_mural_DRAGON_2": 3,
+    "wallpaper_mural_DRAGON_3": 3,
+    "wallpaper_mural_DRAGON_4": 3,
+    "wallpaper_mural_DRAGON_5": 3,
+    "wallpaper_mural_DRAGON_6": 3,        
+    "BBP_Wood_Storage": 2,
+    "BBP_BedKit": 2,
+    "BBP_SofaKit": 2,
+    "BBP_Sun_Shade": 2,
+    "wallpaper_mural_BLAZE_1": 3
+  }
+}

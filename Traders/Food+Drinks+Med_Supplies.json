@@ -1,0 +1,43 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Food+Drinks+Med_Supplies",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "TraderIcon": "Can Of Beans Big",
+  "Currencies": [
+    "Money_AUDollar5",
+    "Money_AUDollar10",
+    "Money_AUDollar20",
+    "Money_AUDollar50",
+    "Money_AUDollar100"
+  ],
+  "Categories": [
+    "Drinks:2",
+    "Food:2",
+    "Mega Food:2",
+    "Fruit + Vegetables:2",
+		"Medical",
+		"AdditionalMedicalSupplies",
+    "MedPlus:3"	
+  ],
+  "Items": {
+    "waterbottle": 1,
+    "apple": 1,
+    "plum": 1,
+    "pear": 1,
+    "agaricusmushroom": 1,
+		"anticheminjector": 2,
+		"AMS_POX": 2,
+    "AMS_GasMaskGP21_Filter": 2,
+    "AMS_GasMaskGP21": 2,
+		"IK_nbc_250": 3,
+		"IK_apteka_100": 3,
+		"salinebag": 2,
+		"MedPlus_FastBandage": 3,
+    "MedPlus_Soap": 3,
+    "MedPlus_AntiRad": 3,
+    "MedPlus_Ibuprofene": 3,
+    "MedPlus_Vikasol": 3,
+    "MedPlus_Ematogel": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FracSoulz",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "TraderIcon": "Exclamationmark",
+  "Currencies": [
+    "Money_AUDollar5",
+    "Money_AUDollar10",
+    "Money_AUDollar20",
+    "Money_AUDollar50",
+    "Money_AUDollar100"
+  ],
+  "Categories": [
+    "FracSoulz:2",
+    "FracGhillies:2",
+    "FracClothes:2",
+    "FracBags:2"
+  ],
+  "Items": {}
+}

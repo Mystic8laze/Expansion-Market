@@ -1,0 +1,31 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Boatz",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Boat",
+    "Currencies": [
+        "Money_AUDollar5",
+        "Money_AUDollar10",
+        "Money_AUDollar20",
+        "Money_AUDollar50",
+        "Money_AUDollar100"
+	],
+    "Categories": [
+        "RF_Boatz",
+        "Vehicle_Parts",
+        "Batteries"
+    ],
+    "Items": {
+        "RFWC_RM_Zodiac_Future": 3,
+        "RFWC_RM_Zodiac_Green_Camo": 3,
+        "RFWC_RM_Zodiac_Digi_Blue": 3,
+        "RFWC_RM_Zodiac_zombie_red": 3,
+        "RFWC_RM_Zodiac_ocean_blue": 3,
+        "RFWC_RM_Zodiac_mellow": 3,
+        "RFWC_RM_Zodiac_cosmic": 3,
+        "RFWC_RM_Zodiac_old_gold": 3,
+        "RFWC_RM_Zodiac_teal": 3,
+        "RFWC_RM_Zodiac_purple": 3
+    }
+}

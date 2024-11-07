@@ -1,0 +1,47 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Bunnings",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Ladder",
+    "Currencies": [
+        "Money_AUDollar5",
+        "Money_AUDollar10",
+        "Money_AUDollar20",
+        "Money_AUDollar50",
+        "Money_AUDollar100"
+	],
+    "Categories": [
+        "Tools",
+        "Supplies",
+        "Gardening",
+        "Containers",
+        "Tents",
+		"CarCover",
+        "Flags",
+        "Kits",
+        "Navigation",
+        "Electronics",
+        "Lights",
+		"Boomlay:2"
+    ],
+    "Items": {
+        "Soulz_SecureContainer_Alpha": 3,
+		"WoodenPlank": 2,
+		"NailBox": 2,
+		"Hatchet": 2,
+        "Whetstone": 2,
+		"CarCover": 3,
+		"Crowbar": 2,
+		"Screwdriver": 2,
+		"Lockpick": 2,
+		"SledgeHammer": 2,
+        "woodencrate": 2,
+        "seachest": 2,
+        "barrel_blue": 2,
+        "barrel_green": 2,
+        "barrel_red": 2,
+        "barrel_yellow": 2,
+        "nvgoggles": 2       
+	}
+}
