@@ -1,0 +1,423 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Fallout Xtras",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100,
+    "Items": [
+		{	
+            "ClassName": "SPN_FallItem_OldMoney1",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SPN_FallItem_OldMoney2",
+                "SPN_FallItem_OldMoney3"
+            ]
+        },
+		{	
+            "ClassName": "SPN_FallBarrel_x200",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SPN_FallBarrel_x300",
+                "SPN_FallBarrel_x500"
+            ]
+        },
+		{	
+            "ClassName": "SPN_FallSeaChest_x100",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SPN_FallSeaChest_x150",
+                "SPN_FallSeaChest_x200",
+                "SPN_FallSeaChest_x500"
+            ]
+        },
+		{	
+            "ClassName": "SPN_FallMountBag_1",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SPN_FallMountBag_2",
+                "SPN_FallMountBag_3",
+                "SPN_FallMountBag_4",
+                "SPN_FallMountBag_5",
+                "SPN_FallMountBag_6",
+                "SPN_FallMountBag_7",
+                "SPN_FallMountBag_8",
+                "SPN_FallMountBag_9",
+                "SPN_FallMountBag_10"
+            ]
+        },
+		{	
+            "ClassName": "SPN_FallHuntBag_1",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SPN_FallHuntBag_2",
+                "SPN_FallHuntBag_3",
+                "SPN_FallHuntBag_4",
+                "SPN_FallHuntBag_5",
+                "SPN_FallHuntBag_6",
+                "SPN_FallHuntBag_7",
+                "SPN_FallHuntBag_8"
+            ]
+        },
+		{	
+            "ClassName": "SPN_FallSmershVest_1",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SPN_FallSmershVest_2",
+                "SPN_FallSmershVest_3"
+            ]
+        },
+		{	
+            "ClassName": "SPN_FallClothing_Jeans1",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SPN_FallClothing_Jeans2",
+                "SPN_FallClothing_Jeans3",
+                "SPN_FallClothing_Jeans4"
+            ]
+        },
+		{	
+            "ClassName": "SPN_FallSugarBombs_1",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SPN_FallSugarBombs_2",
+                "SPN_FallSugarBombs_3",
+                "SPN_FallSugarBombs_4"
+            ]
+        },
+		{	
+            "ClassName": "SPN_FallFood_CRAM1",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SPN_FallFood_CRAM2"
+            ]
+        },
+		{	
+            "ClassName": "SPN_FallFood_Campbells1",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SPN_FallFood_Campbells2"
+            ]
+        },
+		{	
+            "ClassName": "SPN_FallFood_CannedCorn",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {	
+            "ClassName": "SPN_FallFood_NukaCola1",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SPN_FallFood_NukaCola2",
+                "SPN_FallFood_NukaCola3",
+                "SPN_FallFood_NukaCola4"
+            ]
+    },
+    {	
+        "ClassName": "SPN_FallFood_NukaCola5",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [       
+                "SPN_FallFood_NukaCola6",
+                "SPN_FallFood_NukaCola7"
+            ]
+    },
+    {	
+        "ClassName": "SPN_FallFood_Sunset1",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {	
+            "ClassName": "SPN_FallFood_Water1",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SPN_FallFood_Water2",
+                "SPN_FallFood_Water3"
+            ]
+        },    
+        {	
+            "ClassName": "SPN_FallBook_Bible",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {	
+            "ClassName": "SPN_FallBook_Journal",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {	
+            "ClassName": "SPN_FallBook_TeslaJournal",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {	
+            "ClassName": "SPN_FallBook_TeslaJournal2",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {	
+            "ClassName": "SPN_FallBook_JournalGiB",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {	
+            "ClassName": "SPN_FallBook_JournalGiB2",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {	
+            "ClassName": "SPN_FallBook_JournalHotRodded",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {	
+            "ClassName": "SPN_FallBook_JournalSurg",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {	
+            "ClassName": "SPN_FallBook_JournalFood",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {	
+            "ClassName": "SPN_FallBook_Junk1",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SPN_FallBook_Junk2",
+                "SPN_FallBook_Junk3",
+                "SPN_FallBook_Junk4"
+            ]
+        },
+        {	
+            "ClassName": "SPN_FallBook_Junk5",
+                "MaxPriceThreshold": 20000,
+                "MinPriceThreshold": 20000,
+                "SellPricePercent": 25,
+                "MaxStockThreshold": 1,
+                "MinStockThreshold": 1,
+                "QuantityPercent": -1,
+                "SpawnAttachments": [],
+                "Variants": [                
+                "SPN_FallBook_Junk6",
+                "SPN_FallBook_Junk7",
+                "SPN_FallBook_Junk8"
+            ]
+        },
+		{	
+            "ClassName": "SPN_FallSurv_Survival1",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SPN_FallSurv_Survival2",
+                "SPN_FallSurv_Survival3",
+                "SPN_FallSurv_Survival4"
+            ]
+        },
+		{	
+            "ClassName": "SPN_FallSurv_Survival5",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SPN_FallSurv_Survival6",
+                "SPN_FallSurv_Survival7",
+                "SPN_FallSurv_Survival8",
+                "SPN_FallSurv_Survival9"
+            ]
+        },
+        {	
+            "ClassName": "SPN_FallItem_Buffout",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {	
+            "ClassName": "SPN_FallItem_RadX1",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SPN_FallItem_RadX2"
+            ]
+        },
+        {	
+            "ClassName": "SPN_FallItem_Vitamins",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }       
+    ]
+}	

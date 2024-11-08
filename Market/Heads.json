@@ -1,0 +1,164 @@
+{
+    "m_Version": 12,
+    	"DisplayName": "Heads",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100,
+    "Items": [
+        {
+            "ClassName": "Head_Goat_Brown",
+            "MaxPriceThreshold": 12100,
+            "MinPriceThreshold": 12100,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [	
+				"Head_Goat_Black",	
+				"Head_Goat_White"
+			]
+        },	
+        {
+            "ClassName": "Head_Sheep",
+            "MaxPriceThreshold": 12100,
+            "MinPriceThreshold": 12100,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Head_Pig",
+            "MaxPriceThreshold": 12100,
+            "MinPriceThreshold": 12100,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Head_Bull_Brown",
+            "MaxPriceThreshold": 12100,
+            "MinPriceThreshold": 12100,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Head_Bull_White",
+				"Head_Bull_Spotted"
+			]
+        },
+		
+        {
+            "ClassName": "Head_WildBoar",
+            "MaxPriceThreshold": 12100,
+            "MinPriceThreshold": 12100,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },			
+        {
+            "ClassName": "Head_Deer",
+            "MaxPriceThreshold": 12100,
+            "MinPriceThreshold": 12100,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },			
+        {
+            "ClassName": "Head_RedDeer",
+            "MaxPriceThreshold": 12100,
+            "MinPriceThreshold": 12100,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },			
+        {
+            "ClassName": "Head_Wolf",
+            "MaxPriceThreshold": 12100,
+            "MinPriceThreshold": 12100,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },			
+        {
+            "ClassName": "Head_Bear",
+            "MaxPriceThreshold": 12100,
+            "MinPriceThreshold": 12100,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },			
+        {
+            "ClassName": "BoarHead",	
+            "MaxPriceThreshold": 12100,
+            "MinPriceThreshold": 12100,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },				
+        {
+            "ClassName": "DeerHead_m",
+            "MaxPriceThreshold": 13000,
+            "MinPriceThreshold": 13000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"DeerHead_f"
+			]
+        },
+        {
+            "ClassName": "WolfHead",			
+            "MaxPriceThreshold": 13300,
+            "MinPriceThreshold": 13300,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },			
+        {
+            "ClassName": "BearHead",
+            "MaxPriceThreshold": 15600,
+            "MinPriceThreshold": 15600,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"BearHead_black"
+			]
+        }
+    ]
+}				

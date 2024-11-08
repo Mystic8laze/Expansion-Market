@@ -1,0 +1,118 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Sleeping_Bags",
+    "Icon": "Sleeping Bag",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100,
+    "Items": [
+		{	
+            "ClassName": "LBS_SleepingPacked_New_Camo",
+            "MaxPriceThreshold": 500000,
+            "MinPriceThreshold": 500000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LBS_SleepingPacked_New_Blue"
+			]
+        },
+		{	
+            "ClassName": "LBS_SleepingPacked_Old_Red",
+            "MaxPriceThreshold": 500000,
+            "MinPriceThreshold": 500000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LBS_SleepingPacked_Old_Blue",		
+				"LBS_SleepingPacked_Old_Brown"		
+			]
+        },
+		{	
+            "ClassName": "LBS_SleepingPacked_Old_Green",
+            "MaxPriceThreshold": 500000,
+            "MinPriceThreshold": 500000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [							
+				"LBS_SleepingPacked_Old_LightPurple"	
+			]
+        },
+		{	
+            "ClassName": "LBS_SleepingPacked_Old_Purple",
+            "MaxPriceThreshold": 500000,
+            "MinPriceThreshold": 500000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [							
+				"LBS_SleepingPacked_Old_Orange"		
+			]
+        },		
+		{	
+            "ClassName": "tofu_vstorage_barrel_weapons",
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [					
+				"tofu_vstorage_barrel_other",		
+				"tofu_vstorage_barrel_base"		
+			]
+        },
+		{	
+            "ClassName": "tofu_vstorage_barrel_important",
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [					
+				"tofu_vstorage_barrel_event",		
+				"tofu_vstorage_barrel_tools"		
+			]
+        },		
+		{	
+            "ClassName": "tofu_vstorage_barrel_ammo",
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"tofu_vstorage_barrel_clothing",	
+				"tofu_vstorage_barrel_food"	
+			]
+        },		
+		{	
+            "ClassName": "tofu_vstorage_barrel_medic",
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [						
+				"tofu_vstorage_barrel_transport"	
+			]
+        }
+    ]
+}

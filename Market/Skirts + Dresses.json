@@ -1,0 +1,68 @@
+{
+    "m_Version": 12,
+    	"DisplayName": "SKIRTS + DRESSES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100,
+    "Items": [
+        {
+            "ClassName": "skirt_blue",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "skirt_red",
+                "skirt_white",
+                "skirt_yellow"
+            ]
+        },
+        {
+            "ClassName": "minidress_pink",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 70,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "minidress_pinkchecker",
+                "minidress_redchecker",
+                "minidress_bluechecker"
+            ]
+        },
+        {
+            "ClassName": "minidress_bluewithdots",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 70,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [       
+                "minidress_whitechecker",
+                "minidress_brownchecker",
+                "minidress_greenchecker"
+            ]
+        },		
+        {
+            "ClassName": "nursedress_blue",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "nursedress_white"
+            ]
+        }
+    ]
+}

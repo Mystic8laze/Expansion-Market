@@ -1,0 +1,153 @@
+{
+    "m_Version": 12,
+    	"DisplayName": "Umbrella",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100,
+    "Items": [
+    {
+        "ClassName": "TCP_UmbrellaVest",	
+        "MaxPriceThreshold": 20000,
+        "MinPriceThreshold": 20000,
+        "SellPricePercent": 25,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "TCP_UmbrellaPlateCarrier",	
+        "MaxPriceThreshold": 20000,
+        "MinPriceThreshold": 20000,
+        "SellPricePercent": 25,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "TCP_UmbrellaPlateCarrierHolster",	
+        "MaxPriceThreshold": 20000,
+        "MinPriceThreshold": 20000,
+        "SellPricePercent": 25,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "TCP_UmbrellaPouches",	
+        "MaxPriceThreshold": 20000,
+        "MinPriceThreshold": 20000,
+        "SellPricePercent": 25,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "TCP_UmbrellaBeret",	
+        "MaxPriceThreshold": 20000,
+        "MinPriceThreshold": 20000,
+        "SellPricePercent": 25,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "TCP_UmbrellaPants",	
+        "MaxPriceThreshold": 20000,
+        "MinPriceThreshold": 20000,
+        "SellPricePercent": 25,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "TCP_UmbrellaJacket",	
+        "MaxPriceThreshold": 20000,
+        "MinPriceThreshold": 20000,
+        "SellPricePercent": 25,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "TCP_UmbrellaGloves",	
+        "MaxPriceThreshold": 20000,
+        "MinPriceThreshold": 20000,
+        "SellPricePercent": 25,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "TCP_UmbrellaBoots",	
+        "MaxPriceThreshold": 20000,
+        "MinPriceThreshold": 20000,
+        "SellPricePercent": 25,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "TCP_HatUmbrella",	
+        "MaxPriceThreshold": 20000,
+        "MinPriceThreshold": 20000,
+        "SellPricePercent": 25,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "TCP_CoyoteBagUmbrella",	
+        "MaxPriceThreshold": 20000,
+        "MinPriceThreshold": 20000,
+        "SellPricePercent": 25,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "TCP_DryBagUmbrella",	
+        "MaxPriceThreshold": 20000,
+        "MinPriceThreshold": 20000,
+        "SellPricePercent": 25,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "TCP_UmbrellaMountainBag",
+        "MaxPriceThreshold": 20000,
+        "MinPriceThreshold": 20000,
+        "SellPricePercent": 25,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    }   
+    ]
+}

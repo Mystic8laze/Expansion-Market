@@ -1,0 +1,759 @@
+{
+    "m_Version": 12,
+    	"DisplayName": "Last DayZ Music Tapes",
+    "Icon": "Radio",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100,
+    "Items": [
+        {
+            "ClassName": "LDzRadio_backinblack_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"LDzRadio_highwaytohell_Tape",
+				"LDzRadio_straightrhymez_Tape",	
+				"LDzRadio_sabotagebeastie_Tape",	
+				"LDzRadio_brushycorn_Tape",	
+				"LDzRadio_screamaimfire_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_werolldeep_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_sleepingmydayaway_Tape",
+				"LDzRadio_dedodo_Tape",			
+				"LDzRadio_apereallastdex_Tape",	
+				"LDzRadio_diegebruder_Tape",		
+				"LDzRadio_komplett_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_chunkyformatb_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_damouthofmadness_Tape",
+				"LDzRadio_getdown_Tape",			
+				"LDzRadio_babelremix_Tape",		
+				"LDzRadio_radioactive_Tape",		
+				"LDzRadio_sweat_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_johnnycashgods_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_hurtjohnnycash_Tape",	
+				"LDzRadio_crystalmeffin_Tape",	
+				"LDzRadio_likememeekz_Tape",		
+				"LDzRadio_powerofsound_Tape",	
+				"LDzRadio_shinedownmonsters_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_sunrisenorahjones_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"LDzRadio_lostboy_Tape",			
+				"LDzRadio_shingeki_Tape",			
+				"LDzRadio_questionsigetasked_Tape",	
+				"LDzRadio_theweekendedit_Tape",		
+				"LDzRadio_unraveltokyo_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_thesoundofe_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_dontstopthemusic_Tape",	
+				"LDzRadio_elektroniksupersonik_Tape",
+				"LDzRadio_cross_Tape",				
+				"LDzRadio_lonewolf_Tape",			
+				"LDzRadio_lifeisgoodremix_Tape"
+			]
+        },	
+        {
+            "ClassName": "LDzRadio_meinteil_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"LDzRadio_sigaretta_Tape",			
+				"LDzRadio_whereareyou_Tape",		
+				"LDzRadio_sociopath_Tape",			
+				"LDzRadio_youngestincharge_Tape",	
+				"LDzRadio_antagonist_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_fashionweek_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_inismona_Tape",			
+				"LDzRadio_alittlebitoff_Tape",		
+				"LDzRadio_thepride_Tape",			
+				"LDzRadio_twistedtransistor_Tape",	
+				"LDzRadio_armatastrigoi_Tape"
+			]
+        },		
+        {
+            "ClassName": "LDzRadio_demonsareagirls_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [	
+				"LDzRadio_stuart_Tape",				
+				"LDzRadio_starboyremix_Tape",		
+				"LDzRadio_tomjonesleave_Tape",		
+				"LDzRadio_shemakeitclap_Tape",		
+				"LDzRadio_everythingblack_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_thunderstruckacdc_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_twilightofthunder_Tape",	
+				"LDzRadio_lamarche_Tape",			
+				"LDzRadio_downwithsickness_Tape",	
+				"LDzRadio_insidethefire_Tape",		
+				"LDzRadio_drowningpoolbodies_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_tillitsgone_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"LDzRadio_jacqueesyou_Tape",		
+				"LDzRadio_doabyprevail_Tape",		
+				"LDzRadio_futurefn_Tape",			
+				"LDzRadio_hardtochoose_Tape",		
+				"LDzRadio_tonymontanafuture_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_freedfromdesire_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_nobodysperfect_Tape",		
+				"LDzRadio_nothingelsematters_Tape",	
+				"LDzRadio_badandboujee_Tape",		
+				"LDzRadio_dangermigo_Tape"
+			]
+        },			
+        {
+            "ClassName": "LDzRadio_godwasnever_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"LDzRadio_congratulations_Tape",	
+				"LDzRadio_rockstar_Tape",			
+				"LDzRadio_pushittothelimit_Tape",	
+				"LDzRadio_whereowlsknowmyname_Tape",
+				"LDzRadio_rusmusic_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_boshretkheir_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_headlines_Tape",			
+				"LDzRadio_venomem_Tape",			
+				"LDzRadio_fallem_Tape",				
+				"LDzRadio_ambitionzazaridah_Tape",	
+				"LDzRadio_amerikazmostwanted_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_weownitwiz_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [	
+				"LDzRadio_soundofsilence_Tape",		
+				"LDzRadio_calilove_Tape",			
+				"LDzRadio_fastlane_Tape",			
+				"LDzRadio_allaroundtheworld_Tape",	
+				"LDzRadio_canciondelmariachi_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_blackbetty_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_weshallsailtogether_Tape",
+				"LDzRadio_folktronicavioarr_Tape",	
+				"LDzRadio_voluspa_Tape",			
+				"LDzRadio_mothertoldme_Tape",		
+				"LDzRadio_clockwise_Tape"
+			]
+        },			
+        {
+            "ClassName": "LDzRadio_americahorse_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_demuseo_Tape",			
+				"LDzRadio_bangbang_Tape",			
+				"LDzRadio_danceofthedead_Tape",		
+				"LDzRadio_bizpetrunko_Tape",			
+				"LDzRadio_bonethugsitried_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_yourbetrayal_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_cairokeeya_Tape",			
+				"LDzRadio_cheapthrills_Tape",		
+				"LDzRadio_greenriver_Tape",			
+				"LDzRadio_slimchers_Tape",			
+				"LDzRadio_waitingfor_Tape"
+			]
+        },			
+        {
+            "ClassName": "LDzRadio_triptovalhalla_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [		
+				"LDzRadio_cantfeelmyface_Tape",		
+				"LDzRadio_houseofthesun_Tape",		
+				"LDzRadio_somewhereonlyweknow_Tape",	
+				"LDzRadio_beethovenken_Tape",		
+				"LDzRadio_pursuitofhappiness_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_turnthepage_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_whiskeyinthejar_Tape",		
+				"LDzRadio_miyagi_Tape",				
+				"LDzRadio_nfoutcast_Tape",			
+				"LDzRadio_layemdown_Tape",			
+				"LDzRadio_tetrismusik_Tape"
+			]
+        },		
+        {
+            "ClassName": "LDzRadio_projectxremix_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [		
+				"LDzRadio_ramil_Tape",				
+				"LDzRadio_hettatanya_Tape",			
+				"LDzRadio_sanduciorba_Tape",			
+				"LDzRadio_liveforever_Tape",			
+				"LDzRadio_lonelyshepherd_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_summertimeisgreat_Tape",	
+			"MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"LDzRadio_withdrawals_Tape",			
+				"LDzRadio_amluatcina_Tape",			
+				"LDzRadio_uraganufaceti_Tape",		
+				"LDzRadio_goodumsa_Tape",			
+				"LDzRadio_wonderland_Tape"
+			]
+        },			
+        {
+            "ClassName": "LDzRadio_upchurch_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [		
+				"LDzRadio_wardrunahelvegen_Tape",	          
+				"LDzRadio_putthreestripes_Tape",		
+				"LDzRadio_returnofthetres_Tape",		
+				"LDzRadio_insaneinthebrain_Tape",	
+				"LDzRadio_desperadorihanna_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_amonvikings_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_fatherofthewolf_Tape",		
+				"LDzRadio_dontworryaboutme_Tape",			
+				"LDzRadio_generalscorner_Tape",
+				"LDzRadio_blinksmallthings_Tape",
+				"LDzRadio_aufgute_Tape"
+			]
+        },		
+        {
+            "ClassName": "LDzRadio_niewieder_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [	
+				"LDzRadio_wirhamnoch_Tape",		
+				"LDzRadio_ragnboneman_Tape",		
+				"LDzRadio_charlesboum_Tape",		
+				"LDzRadio_darkepicmusic_Tape",	
+				"LDzRadio_turndownforwhat_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_theonlything_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_enaftenved_Tape",		
+				"LDzRadio_easygoremix_Tape",		
+				"LDzRadio_thisgonnahurt_Tape",	
+				"LDzRadio_untraveledroad_Tape",	
+				"LDzRadio_hookwith_Tape"
+			]
+        },		
+        {
+            "ClassName": "LDzRadio_chemtrailsover_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_unarosa_Tape",			
+				"LDzRadio_bfgdivision_Tape",		
+				"LDzRadio_clownmike_Tape",		
+				"LDzRadio_mostbeautiful_Tape",	
+				"LDzRadio_cowboysfromhell_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_popsmokedior_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_purplerain_Tape",		
+				"LDzRadio_thewolfsong_Tape",		
+				"LDzRadio_toolfortysix_Tape",	
+				"LDzRadio_lostthatlovin_Tape",	
+				"LDzRadio_eddierise_Tape"
+			]
+        },		
+        {
+            "ClassName": "LDzRadio_moveyourfeet_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_limprollin_Tape",		
+				"LDzRadio_perfectday_Tape",		
+				"LDzRadio_survivaloffit_Tape",	
+				"LDzRadio_endoftheworld_Tape",	
+				"LDzRadio_bullsonparade_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_wanabesedated_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_thesmithsask_Tape",	
+				"LDzRadio_billiejean_Tape",		
+				"LDzRadio_eyeinsky_Tape",		
+				"LDzRadio_theraven_Tape",		
+				"LDzRadio_roosters_Tape"
+			]
+        },	
+        {
+            "ClassName": "LDzRadio_footsteps_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_cityofangels_Tape",			
+				"LDzRadio_jailhouserock_Tape",
+				"LDzRadio_highman_Tape",			
+				"LDzRadio_goode_Tape",				
+				"LDzRadio_actafool_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_gotlove_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_walkure_Tape",			
+				"LDzRadio_ringoffire_Tape",			
+				"LDzRadio_changetheworld_Tape",		
+				"LDzRadio_ingoodcompany_Tape",		
+				"LDzRadio_housebuilding_Tape"
+			]
+        },	
+        {
+            "ClassName": "LDzRadio_partymaker_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_wizerryday_Tape",			
+				"LDzRadio_wiznosleep_Tape",			
+				"LDzRadio_winnertakes_Tape",		
+				"LDzRadio_regulaters_Tape",			
+				"LDzRadio_superfreak_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_ambitions_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_hatebeinsober_Tape",		
+				"LDzRadio_safetosay_Tape",			
+				"LDzRadio_lovesosa_Tape",			
+				"LDzRadio_nobodydoes_Tape",			
+				"LDzRadio_musicandme_Tape"
+			]
+        },			
+        {
+            "ClassName": "LDzRadio_watchingmeog_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_tillicollapse_Tape",		
+				"LDzRadio_whenimgone_Tape",			
+				"LDzRadio_brightsideoflife_Tape",	
+				"LDzRadio_wannabegangster_Tape",	
+				"LDzRadio_withoutme_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_rockyou_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_meanttobe_Tape",			
+				"LDzRadio_sophisticated_Tape",		
+				"LDzRadio_linkinpark_Tape",			
+				"LDzRadio_chilloutcali_Tape",		
+				"LDzRadio_racks_Tape"
+			]
+        },			
+        {
+            "ClassName": "LDzRadio_carryonson_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [		
+				"LDzRadio_remedy_Tape",				
+				"LDzRadio_sobertool_Tape",			
+				"LDzRadio_walkthisway_Tape",		
+				"LDzRadio_killingmachine_Tape",		
+				"LDzRadio_ganja_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_chopsuey_Tape",
+			"MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"LDzRadio_zombieoffical_Tape",	
+				"LDzRadio_kickoff_Tape",			
+				"LDzRadio_xanny_Tape",			
+				"LDzRadio_meshugah_Tape",		
+				"LDzRadio_brighterday_Tape"
+			]
+        },		
+        {
+            "ClassName": "LDzRadio_bringrum_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_jamaica_Tape",			
+				"LDzRadio_fortunateson_Tape",	
+				"LDzRadio_outoftouch_Tape",		
+				"LDzRadio_smokeonwater_Tape",	
+				"LDzRadio_levitating_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_explodemix_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_popularmonster_Tape",	
+				"LDzRadio_eastwood_Tape",		
+				"LDzRadio_hittheroad_Tape",		
+				"LDzRadio_whatyouwaitingfor_Tape",
+				"LDzRadio_natural_Tape"
+			]
+        },		
+        {
+            "ClassName": "LDzRadio_ifeelgood_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [	
+				"LDzRadio_combustioninferno_Tape",			
+				"LDzRadio_drankanddrugs_Tape",	
+				"LDzRadio_steadymobbin_Tape",	
+				"LDzRadio_loseyourhead_Tape",	
+				"LDzRadio_thisisthenewshit_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_astronautintheocean_Tape",
+			"MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"LDzRadio_nuclear_Tape",			
+				"LDzRadio_digupherbones_Tape",	
+				"LDzRadio_sleepwalker_Tape",	
+				"LDzRadio_tangodelfuego_Tape",	
+				"LDzRadio_whereismymind_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_hypnotizedremix_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"LDzRadio_touchableremble_Tape",	
+				"LDzRadio_rosesremixed_Tape",	
+				"LDzRadio_gimmeshelter_Tape",	
+				"LDzRadio_heyyaoutkast_Tape",	
+				"LDzRadio_stillfly_Tape"
+			]
+        },
+        {
+            "ClassName": "LDzRadio_wherethehoodat_Tape",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [			
+				"LDzRadio_campfiresong_Tape",	
+				"LDzRadio_watchingme_Tape",		
+				"LDzRadio_byob_Tape",	
+				"LDzRadio_hotremix_Tape",			
+				"LDzRadio_igotbyburden_Tape",		
+				"LDzRadio_riskitall_Tape",			
+				"LDzRadio_outlawshit_Tape"				
+			]
+        }
+    ]
+}

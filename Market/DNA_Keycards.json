@@ -1,0 +1,65 @@
+{
+    "m_Version": 12,
+    	"DisplayName": "DNA_Keycards",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100,
+    "Items": [
+        {
+            "ClassName": "DNA_KeyCard_Yellow",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },		
+        {
+            "ClassName": "DNA_KeyCard_Green",
+            "MaxPriceThreshold": 66000,
+            "MinPriceThreshold": 66000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },		
+        {
+            "ClassName": "DNA_KeyCard_Blue",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 72000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },		
+        {
+            "ClassName": "DNA_KeyCard_Purple",
+            "MaxPriceThreshold": 78000,
+            "MinPriceThreshold": 78000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },		
+        {
+            "ClassName": "DNA_KeyCard_Red",
+            "MaxPriceThreshold": 84000,
+            "MinPriceThreshold": 84000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

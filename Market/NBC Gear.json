@@ -1,0 +1,108 @@
+{
+    "m_Version": 12,
+    	"DisplayName": "NBC Gear",
+    "Icon": "Gas Mask",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100,
+    "Items": [
+            {
+                "ClassName": "gasmask",
+                "MaxPriceThreshold": 240,
+                "MinPriceThreshold": 240,
+                "SellPricePercent": 25,
+                "MaxStockThreshold": 1,
+                "MinStockThreshold": 1,
+                "QuantityPercent": -1,
+                "SpawnAttachments": [],
+                "Variants": []
+            },
+            {
+                "ClassName": "gp5gasmask",
+                "MaxPriceThreshold": 240,
+                "MinPriceThreshold": 240,
+                "SellPricePercent": 25,
+                "MaxStockThreshold": 1,
+                "MinStockThreshold": 1,
+                "QuantityPercent": -1,
+                "SpawnAttachments": [],
+                "Variants": []
+            },
+            {
+                "ClassName": "airbornemask",
+                "MaxPriceThreshold": 400,
+                "MinPriceThreshold": 400,
+                "SellPricePercent": 25,
+                "MaxStockThreshold": 1,
+                "MinStockThreshold": 1,
+                "QuantityPercent": -1,
+                "SpawnAttachments": [],
+                "Variants": []
+            },
+            {
+                "ClassName": "nbchoodgray",
+                "MaxPriceThreshold": 200,
+                "MinPriceThreshold": 200,
+                "SellPricePercent": 25,
+                "MaxStockThreshold": 1,
+                "MinStockThreshold": 1,
+                "QuantityPercent": -1,
+                "SpawnAttachments": [],
+                "Variants": [
+                    "nbchoodyellow"
+                ]
+            },
+            {
+                "ClassName": "nbcglovesgray",
+                "MaxPriceThreshold": 160,
+                "MinPriceThreshold": 150,
+                "SellPricePercent": 25,
+                "MaxStockThreshold": 1,
+                "MinStockThreshold": 1,
+                "QuantityPercent": -1,
+                "SpawnAttachments": [],
+                "Variants": [
+                    "nbcglovesyellow"
+                ]
+            },            
+            {
+                "ClassName": "nbcjacketgray",
+                "MaxPriceThreshold": 500,
+                "MinPriceThreshold": 500,
+                "SellPricePercent": 25,
+                "MaxStockThreshold": 1,
+                "MinStockThreshold": 1,
+                "QuantityPercent": -1,
+                "SpawnAttachments": [],
+                "Variants": [
+                    "nbcjacketyellow"
+                ]
+            } ,
+            {
+                "ClassName": "nbcpantsgray",
+                "MaxPriceThreshold": 500,
+                "MinPriceThreshold": 500,
+                "SellPricePercent": 25,
+                "MaxStockThreshold": 1,
+                "MinStockThreshold": 1,
+                "QuantityPercent": -1,
+                "SpawnAttachments": [],
+                "Variants": [
+                    "nbcpantsyellow"
+                ]
+            },
+            {
+                "ClassName": "nbcbootsgray",
+                "MaxPriceThreshold": 320,
+                "MinPriceThreshold": 320,
+                "SellPricePercent": 25,
+                "MaxStockThreshold": 1,
+                "MinStockThreshold": 1,
+                "QuantityPercent": -1,
+                "SpawnAttachments": [],
+                "Variants": [
+                    "nbcbootsyellow"
+                ]
+            }            
+        ]
+    }            
