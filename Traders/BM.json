@@ -43,6 +43,14 @@
     "Umbrella:2"
   ],
   "Items": {
+    "BC_Ammo_20mm": 1,
+    "BC_Ammo_50Cal": 1,
+    "BC_Ammo_408": 1,
+    "BC_Ammo_408AP": 1,
+    "BC_Ammo_Rail": 1,
+    "BC_Ammo_127x55": 1,
+    "BC_Ammo_338": 1,
+    "BC_Ammo_46x30mm": 1,
     "tofu_vstorage_barrel_weapons": 3,
 		"tofu_vstorage_barrel_other": 3,		
 		"tofu_vstorage_barrel_base": 3,		

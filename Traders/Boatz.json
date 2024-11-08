@@ -17,6 +17,11 @@
         "Batteries"
     ],
     "Items": {
+        "Van_Jetski": 3,
+        "Van_Jetski_Black": 3,
+        "Van_Jetski_Blue": 3,
+        "Van_Jetski_Camo": 3,
+        "Van_Jetski_Orange": 3,
         "RFWC_RM_Zodiac_Future": 3,
         "RFWC_RM_Zodiac_Green_Camo": 3,
         "RFWC_RM_Zodiac_Digi_Blue": 3,
