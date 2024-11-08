@@ -1,0 +1,40 @@
+{
+    "m_Version": 12,
+    	"DisplayName": "BANDANAS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100,
+    "Items": [
+        {
+            "ClassName": "bandana_blue",
+            "MaxPriceThreshold": 16,
+            "MinPriceThreshold": 16,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "bandana_pink",
+                "bandana_yellow",
+                "bandana_redpattern"
+            ]
+        },
+        {
+            "ClassName": "bandana_greenpattern",
+            "MaxPriceThreshold": 16,
+            "MinPriceThreshold": 16,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "bandana_blackpattern",
+				"bandana_camopattern",
+                "bandana_polkapattern"			
+			]
+        }
+    ]
+}

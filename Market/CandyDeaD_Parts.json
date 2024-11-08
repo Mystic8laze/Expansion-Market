@@ -1,0 +1,355 @@
+{
+    "m_Version": 12,
+    "DisplayName": "CandyDeaD_Parts",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "Candy_MustFrank_Wheel",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Candy_MustFrank_Doors_Driver",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Candy_MustFrank_Doors_Driver_White"
+            ]
+        },		
+        {
+            "ClassName": "Candy_MustFrank_Doors_CoDriver",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Candy_MustFrank_Doors_CoDriver_White"
+            ]
+        },
+        {
+            "ClassName": "Candy_MustFrank_Doors_Trunk",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Candy_MustFrank_Doors_Trunk_White"				
+            ]
+        },
+        {
+            "ClassName": "Candy_MustFrank_Doors_Trunk0",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+             "Variants": [
+				"Candy_MustFrank_Doors_Trunk0_White"
+            ]
+        },
+        {
+            "ClassName": "Candy_MustFrank_Doors_Hood",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "Variants": [
+				"Candy_MustFrank_Doors_Hood_White"			
+            ]
+        },
+        {
+            "ClassName": "Candy_Prado_Wheel",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Candy_Prado_Wheel_Wald",
+                "Candy_Prado_Wheel_White",
+                "Candy_Prado_Wheel_White_Wald"
+
+            ]
+        },
+        {
+            "ClassName": "Candy_Prado_doors_Driver",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Candy_Prado_doors_Driver_Yellow",
+                "Candy_Prado_doors_Driver_Blue",
+                "Candy_Prado_doors_Driver_Red",
+                "Candy_Prado_doors_Driver_Brown",
+                "Candy_Prado_doors_Driver_Grey",
+                "Candy_Prado_doors_Driver_Pink",
+                "Candy_Prado_doors_Driver_White",
+                "Candy_Prado_doors_Driver_Black",
+                "Candy_Prado_doors_Driver_Camo",
+                "Candy_Prado_doors_Driver_Rust"
+            ]
+        },
+        {
+            "ClassName": "Candy_Prado_doors_coDriver",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Candy_Prado_doors_coDriver_Yellow",
+                "Candy_Prado_doors_coDriver_Blue",
+                "Candy_Prado_doors_coDriver_Red",
+                "Candy_Prado_doors_coDriver_Brown",
+                "Candy_Prado_doors_coDriver_Grey",
+                "Candy_Prado_doors_coDriver_Pink",
+                "Candy_Prado_doors_coDriver_White",
+                "Candy_Prado_doors_coDriver_Black",
+                "Candy_Prado_doors_coDriver_Camo",
+                "Candy_Prado_doors_coDriver_Rust"
+            ]
+        },
+        {
+            "ClassName": "Candy_Prado_doors_cargo1",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Candy_Prado_doors_cargo1_Yellow",
+                "Candy_Prado_doors_cargo1_Blue",
+                "Candy_Prado_doors_cargo1_Red",
+                "Candy_Prado_doors_cargo1_Brown",
+                "Candy_Prado_doors_cargo1_Grey",
+                "Candy_Prado_doors_cargo1_Pink",
+                "Candy_Prado_doors_cargo1_White",
+                "Candy_Prado_doors_cargo1_Black",
+                "Candy_Prado_doors_cargo1_Camo",
+                "Candy_Prado_doors_cargo1_Rust"
+            ]
+        },
+        {
+            "ClassName": "Candy_Prado_doors_cargo2",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Candy_Prado_doors_cargo2_Yellow",
+                "Candy_Prado_doors_cargo2_Blue",
+                "Candy_Prado_doors_cargo2_Red",
+                "Candy_Prado_doors_cargo2_Brown",
+                "Candy_Prado_doors_cargo2_Grey",
+                "Candy_Prado_doors_cargo2_Pink",
+                "Candy_Prado_doors_cargo2_White",
+                "Candy_Prado_doors_cargo2_Black",
+                "Candy_Prado_doors_cargo2_Camo",
+                "Candy_Prado_doors_cargo2_Rust"
+            ]
+        },
+        {
+            "ClassName": "Candy_Prado_doors_hood",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Candy_Prado_doors_hood_Yellow",
+                "Candy_Prado_doors_hood_Blue",
+                "Candy_Prado_doors_hood_Red",
+                "Candy_Prado_doors_hood_Brown",
+                "Candy_Prado_doors_hood_Grey",
+                "Candy_Prado_doors_hood_Pink",
+                "Candy_Prado_doors_hood_White",
+                "Candy_Prado_doors_hood_Black",
+                "Candy_Prado_doors_hood_Camo",
+                "Candy_Prado_doors_hood_Rust"
+            ]
+        },
+        {
+            "ClassName": "Candy_Prado_doors_trunk",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Candy_Prado_doors_trunk_Yellow",
+                "Candy_Prado_doors_trunk_Blue",
+                "Candy_Prado_doors_trunk_Red",
+                "Candy_Prado_doors_trunk_Brown",
+                "Candy_Prado_doors_trunk_Grey",
+                "Candy_Prado_doors_trunk_Pink",
+                "Candy_Prado_doors_trunk_White",
+                "Candy_Prado_doors_trunk_Black",
+                "Candy_Prado_doors_trunk_Camo",
+                "Candy_Prado_doors_trunk_Rust"
+            ]
+        },
+        {
+            "ClassName": "Candy_Prado_Bumper",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Candy_Prado_Bumper_Yellow",
+                "Candy_Prado_Bumper_White",
+                "Candy_Prado_Bumper_Blue",
+                "Candy_Prado_Bumper_Red",
+                "Candy_Prado_Bumper_Brown",
+                "Candy_Prado_Bumper_Grey",
+                "Candy_Prado_Bumper_Pink",
+                "Candy_Prado_Bumper_Camo",
+                "Candy_Prado_Bumper_Rust"
+            ]
+        },
+        {
+            "ClassName": "Candy_OshkoshApoc_Wheel_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Candy_OshkoshApoc_Doors_Driver",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 2000,
+        "SellPricePercent": -1.0,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+        "Candy_OshkoshApoc_Doors_Driver_Red",
+        "Candy_OshkoshApoc_Doors_Driver_Green",
+        "Candy_OshkoshApoc_Doors_Driver_Black"
+            ]
+        }, 
+        {
+            "ClassName": "Candy_OshkoshApoc_Doors_CoDriver",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 2000,
+        "SellPricePercent": -1.0,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+        "Candy_OshkoshApoc_Doors_CoDriver_Red",
+        "Candy_OshkoshApoc_Doors_CoDriver_Green",
+        "Candy_OshkoshApoc_Doors_CoDriver_Black"
+            ]
+        },
+        {
+            "ClassName": "Candy_OshkoshApoc_Doors_Cargo1",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 2000,
+        "SellPricePercent": -1.0,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+        "Candy_OshkoshApoc_Doors_Cargo1_Red",
+        "Candy_OshkoshApoc_Doors_Cargo1_Green",
+        "Candy_OshkoshApoc_Doors_Cargo1_Black"
+            ]
+        },
+        {
+            "ClassName": "Candy_OshkoshApoc_Doors_Cargo2",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 2000,
+        "SellPricePercent": -1.0,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+        "Candy_OshkoshApoc_Doors_Cargo2_Red",
+        "Candy_OshkoshApoc_Doors_Cargo2_Green",
+        "Candy_OshkoshApoc_Doors_Cargo2_Black"
+            ]
+        },
+        {
+            "ClassName": "Candy_OshkoshApoc_Doors_Hood",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 2000,
+        "SellPricePercent": -1.0,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+        "Candy_OshkoshApoc_Doors_Hood_Red",
+        "Candy_OshkoshApoc_Doors_Hood_Green",
+        "Candy_OshkoshApoc_Doors_Hood_Black"
+            ]
+        },
+        {
+            "ClassName": "Candy_OshkoshApoc_Doors_Trunk",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+        "Candy_OshkoshApoc_Doors_Trunk_Red",
+        "Candy_OshkoshApoc_Doors_Trunk_Green",
+        "Candy_OshkoshApoc_Doors_Trunk_Black"
+            ]
+        }        
+    ]
+}
