@@ -16,6 +16,17 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "FoxPelt",
+            "MaxPriceThreshold": 10500,
+            "MinPriceThreshold": 10500,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         },				
         {
             "ClassName": "GoatPelt",
@@ -90,18 +101,7 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        },				
-        {
-            "ClassName": "FoxPelt",
-            "MaxPriceThreshold": 13000,
-            "MinPriceThreshold": 13000,
-            "SellPricePercent": 25,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },				
+        },			
         {
             "ClassName": "DeerPelt",
             "MaxPriceThreshold": 14000,

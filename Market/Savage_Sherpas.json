@@ -1,0 +1,318 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Savage_Sherpas",
+    "Icon": "Trader",
+    "Color": "EB3736FF",
+    "InitStockPercent": 100,
+    "Items": [
+        {
+			"ClassName": "SavageSherpa",
+			"MaxPriceThreshold": 120000,
+			"MinPriceThreshold": 120000,
+			"SellPricePercent": 25,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"SavageSherpa_Hood",
+        		"SherpaSteeringWheel",
+				"CarBattery",
+				"sparkplug",
+				"headlighth7",
+				"headlighth7"
+			],
+			"Variants": []
+		},
+		{
+			"ClassName": "SavageSherpa_Black",
+			"MaxPriceThreshold": 120000,
+			"MinPriceThreshold": 120000,
+			"SellPricePercent": 25,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"SavageSherpa_Black_hood",
+        		"SherpaSteeringWheel",
+				"CarBattery",
+				"sparkplug",
+				"headlighth7",
+				"headlighth7"
+			],
+			"Variants": []
+		},
+		
+		{
+			"ClassName": "SavageSherpa_Blue",
+			"MaxPriceThreshold": 120000,
+			"MinPriceThreshold": 120000,
+			"SellPricePercent": 25,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"SavageSherpa_Blue_hood",
+        		"SherpaSteeringWheel",
+				"CarBattery",
+				"sparkplug",
+				"headlighth7",
+				"headlighth7"
+			],
+			"Variants": []
+		},
+		{
+			"ClassName": "SavageSherpa_Brown",
+			"MaxPriceThreshold": 120000,
+			"MinPriceThreshold": 120000,
+			"SellPricePercent": 25,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"SavageSherpa_Brown_hood",
+        		"SherpaSteeringWheel",
+				"CarBattery",
+				"sparkplug",
+				"headlighth7",
+				"headlighth7"
+			],
+			"Variants": []
+		},
+        {
+			"ClassName": "SavageSherpa_Green",
+			"MaxPriceThreshold": 120000,
+			"MinPriceThreshold": 120000,
+			"SellPricePercent": 25,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+        		"SavageSherpa_Green_hood",
+        		"SherpaSteeringWheel",
+				"CarBattery",
+				"sparkplug",
+				"headlighth7",
+				"headlighth7"
+			],
+			"Variants": []
+		},
+        {
+			"ClassName": "SavageSherpa_Mint",
+			"MaxPriceThreshold": 120000,
+			"MinPriceThreshold": 120000,
+			"SellPricePercent": 25,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+        		"SavageSherpa_Mint_hood",
+        		"SherpaSteeringWheel",
+				"CarBattery",
+				"sparkplug",
+				"headlighth7",
+				"headlighth7"
+			],
+			"Variants": []
+		},
+        {
+			"ClassName": "SavageSherpa_Pink",
+			"MaxPriceThreshold": 120000,
+			"MinPriceThreshold": 120000,
+			"SellPricePercent": 25,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+        		"SavageSherpa_Pink_hood",
+        		"SherpaSteeringWheel",
+				"CarBattery",
+				"sparkplug",
+				"headlighth7",
+				"headlighth7"
+			],
+			"Variants": []
+		},
+        {
+			"ClassName": "SavageSherpa_Purple",
+			"MaxPriceThreshold": 120000,
+			"MinPriceThreshold": 120000,
+			"SellPricePercent": 25,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+        		"SavageSherpa_Purple_hood",
+        		"SherpaSteeringWheel",
+				"CarBattery",
+				"sparkplug",
+				"headlighth7",
+				"headlighth7"
+			],
+			"Variants": []
+		},
+        {
+			"ClassName": "SavageSherpa_Red",
+			"MaxPriceThreshold": 120000,
+			"MinPriceThreshold": 120000,
+			"SellPricePercent": 25,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+        		"SavageSherpa_Red_hood",
+        		"SherpaSteeringWheel",
+				"CarBattery",
+				"sparkplug",
+				"headlighth7",
+				"headlighth7"
+			],
+			"Variants": []
+		},
+        {
+			"ClassName": "SavageSherpa_White",
+			"MaxPriceThreshold": 120000,
+			"MinPriceThreshold": 120000,
+			"SellPricePercent": 25,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+        		"SavageSherpa_Yellow_hood",
+        		"SherpaSteeringWheel",
+				"CarBattery",
+				"sparkplug",
+				"headlighth7",
+				"headlighth7"
+			],
+			"Variants": []
+		},
+        {
+			"ClassName": "SavageSherpa_Yellow",
+			"MaxPriceThreshold": 120000,
+			"MinPriceThreshold": 120000,
+			"SellPricePercent": 25,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+        		"SavageSherpa_Yellow_hood",
+        		"SherpaSteeringWheel",
+				"CarBattery",
+				"sparkplug",
+				"headlighth7",
+				"headlighth7"
+			],
+			"Variants": []
+		},
+        {
+			"ClassName": "SavageSherpa_Cargo",
+			"MaxPriceThreshold": 200000,
+			"MinPriceThreshold": 200000,
+			"SellPricePercent": 25,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+        		"SavageSherpa_Cargo_hood",
+        		"SherpaSteeringWheel",
+				"CarBattery",
+				"sparkplug",
+				"headlighth7",
+				"headlighth7"
+			],
+			"Variants": []
+		},
+        {
+			"ClassName": "SavageSherpa_Cargo_Black",		
+			"MaxPriceThreshold": 200000,
+			"MinPriceThreshold": 200000,
+			"SellPricePercent": 25,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+        		"SavageSherpa_Cargo_hood",
+        		"SherpaSteeringWheel",
+				"CarBattery",
+				"sparkplug",
+				"headlighth7",
+				"headlighth7"
+			],
+			"Variants": []
+		},
+        {
+			"ClassName": "SavageSherpa_Sport_Black",
+			"MaxPriceThreshold": 150000,
+			"MinPriceThreshold": 150000,
+			"SellPricePercent": 25,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+        		"SherpaSteeringWheel",
+				"CarBattery",
+                "sparkplug",
+                "headlighth7",
+                "headlighth7"
+			],
+			"Variants": [
+                "SavageSherpa_Sport_Blue",
+                "SavageSherpa_Sport_Red",
+                "SavageSherpa_Sport_DeepRed",
+                "SavageSherpa_Sport_Pink",
+                "SavageSherpa_Sport_Purple",
+                "SavageSherpa_Sport_White",
+                "SavageSherpa_Sport_DiamondCut"
+            ]			 			
+		},
+        {
+			"ClassName": "Sherpa_RearBag",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": 25,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []			 			
+		},
+		{
+			"ClassName": "Sherpa_Scabbard",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": 25,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []			 			
+		},
+		{
+			"ClassName": "Sherpa_TwoCycleOil_Bottle",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": 25,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []			 			
+		},
+        {
+			"ClassName": "Sherpa_Helmet_Black",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": 25,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+                "Sherpa_Helmet_Pink",
+                "Sherpa_Helmet_Red",
+                "Sherpa_Helmet_Grey",
+                "Sherpa_Helmet_Carbonfiber"
+            ]			 			
+		}
+    ]
+}

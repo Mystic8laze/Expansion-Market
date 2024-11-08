@@ -7,9 +7,9 @@
     "InitStockPercent": 100,
     "Items": [
         {
-            "ClassName": "bearsteakmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 16,
+            "ClassName": "RabbitLegMeat",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -18,9 +18,9 @@
             "Variants": []
         },
         {
-            "ClassName": "goatsteakmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 16,
+            "ClassName": "FoxSteakMeat",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -29,9 +29,9 @@
             "Variants": []
         },
         {
-            "ClassName": "boarsteakmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 16,
+            "ClassName": "BearSteakMeat",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -40,9 +40,9 @@
             "Variants": []
         },
         {
-            "ClassName": "pigsteakmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 16,
+            "ClassName": "GoatSteakMeat",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -51,9 +51,9 @@
             "Variants": []
         },
         {
-            "ClassName": "deersteakmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 16,
+            "ClassName": "BoarSteakMeat",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -62,9 +62,9 @@
             "Variants": []
         },
         {
-            "ClassName": "wolfsteakmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 16,
+            "ClassName": "PigSteakMeat",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -73,9 +73,9 @@
             "Variants": []
         },
         {
-            "ClassName": "cowsteakmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 16,
+            "ClassName": "DeerSteakMeat",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -84,9 +84,9 @@
             "Variants": []
         },
         {
-            "ClassName": "sheepsteakmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 16,
+            "ClassName": "WolfSteakMeat",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -95,20 +95,31 @@
             "Variants": []
         },
         {
-            "ClassName": "foxsteakmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 16,
+            "ClassName": "CowSteakMeat",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        },		
+        },
         {
-            "ClassName": "chickenbreastmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 16,
+            "ClassName": "SheepSteakMeat",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },	
+        {
+            "ClassName": "ChickenBreastMeat",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,

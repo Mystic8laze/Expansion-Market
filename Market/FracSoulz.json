@@ -612,6 +612,28 @@
             "Variants": []
         },
         {
+            "ClassName":  "FracSoulz_P_Chest",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName":  "FracSoulz_R_Chest",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName":  "FracSoulz_P_Chest_Mozaic",
             "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 5000,

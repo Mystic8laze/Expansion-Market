@@ -634,6 +634,17 @@
             "Variants": []
         },
         {
+            "ClassName":  "FracSoulz_RifleBag_PurpleSparks",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName":  "FracSoulz_RifleBag_Purple",
             "MaxPriceThreshold": 15000,
             "MinPriceThreshold": 15000,

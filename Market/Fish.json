@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "carp",
-            "MaxPriceThreshold": 1800,
-            "MinPriceThreshold": 1800,
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -30,8 +30,41 @@
         },
         {
             "ClassName": "mackerel",
-            "MaxPriceThreshold": 400,
-            "MinPriceThreshold": 400,
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "WalleyePollock",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SteelheadTrout",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RedCaviar",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -338,8 +371,8 @@
         },
         {
             "ClassName": "geb_Leopardshark",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 35000,
+            "MaxPriceThreshold": 36000,
+            "MinPriceThreshold": 36000,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -481,8 +514,8 @@
         },
         {
             "ClassName": "geb_Jellyfish",
-            "MaxPriceThreshold": 4000,
-            "MinPriceThreshold": 4000,
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -514,8 +547,8 @@
         },
         {
             "ClassName": "geb_Greatwhiteshark",
-            "MaxPriceThreshold": 40000,
-            "MinPriceThreshold": 40000,
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 60000,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -546,7 +579,7 @@
             "Variants": []
         },
         {
-            "ClassName": "geb_Shrimp",
+            "ClassName": "Shrimp",
             "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 2000,
             "SellPricePercent": 25,

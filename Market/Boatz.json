@@ -437,7 +437,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Van_Jetski_Black",
+            "ClassName": 
             "MaxPriceThreshold": 40000,
             "MinPriceThreshold": 40000,
             "SellPricePercent": 25,
@@ -451,7 +451,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Van_Jetski_Blue",
+            "ClassName": 
             "MaxPriceThreshold": 40000,
             "MinPriceThreshold": 40000,
             "SellPricePercent": 25,

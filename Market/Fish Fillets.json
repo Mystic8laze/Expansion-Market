@@ -8,8 +8,8 @@
     "Items": [ 
 		{
             "ClassName": "carpfilletmeat",
-            "MaxPriceThreshold": 160,
-            "MinPriceThreshold": 160,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -19,8 +19,30 @@
         },
         {
             "ClassName": "mackerelfilletmeat",
-            "MaxPriceThreshold": 160,
-            "MinPriceThreshold": 160,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "WalleyePollockfilletmeat",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SteelheadTroutfilletmeat",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -514,17 +536,6 @@
         },
         {
             "ClassName": "geb_YellowfintunaFilletMeat",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 2000,
-            "SellPricePercent": 25,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "geb_ShrimpFilletMeat",
             "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 2000,
             "SellPricePercent": 25,
